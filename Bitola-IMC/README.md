@@ -92,10 +92,6 @@ Bitola-IMC é uma calculadora simples e intuitiva para o Índice de Massa Corpor
 
 ## 👨‍💻 Autor
 
-- [Seu Nome](https://github.com/seuusuario)
+- [Thiago Muniz](https://github.com/Thiagomuniz08)
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.

@@ -69,11 +69,6 @@ npx expo start
    npm run reset-project
    ```
 
-9. **Comece a desenvolver!**  
-   Edite o arquivo `app/index.tsx`. As alterações aparecerão automaticamente no emulador ou dispositivo conectado.
-
----
-
 ## 🖼️  Wireframe
 
 <img src="./assets/images/Captura de tela 2025-08-05 165621.png" alt="Screenshot" width="600"/>

@@ -74,7 +74,7 @@ npx expo start
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️  Wireframe
 
 <img src="./assets/images/Captura de tela 2025-08-05 165621.png" alt="Screenshot" width="600"/>
 
